@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:12
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-KEY:METHOD=AES-128,URI="https://oadhv.xianjue.xyz/uploads/m3u8/enc.key",IV=0x388275450afce191ed48034f69106d55
+#EXTINF:10.743333,
+https://oadhv.xianjue.xyz/uploads/km3u8/d98/d98c6a668f24b82d45f172d53dbcd724/index0.ts
+#EXTINF:10.033333,
+https://oadhv.xianjue.xyz/uploads/km3u8/d98/d98c6a668f24b82d45f172d53dbcd724/index1.ts
+#EXTINF:9.233333,
+https://oadhv.xianjue.xyz/uploads/km3u8/d98/d98c6a668f24b82d45f172d53dbcd724/index2.ts
+#EXTINF:11.266667,
+https://oadhv.xianjue.xyz/uploads/km3u8/d98/d98c6a668f24b82d45f172d53dbcd724/index3.ts
+#EXTINF:2.466667,
+https://oadhv.xianjue.xyz/uploads/km3u8/d98/d98c6a668f24b82d45f172d53dbcd724/index4.ts
+#EXT-X-ENDLIST
